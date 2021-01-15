@@ -1,6 +1,6 @@
 # Project-Reports
 
-This repository comprises the following list of documents:
+This repository comprises the following project reports:
 
 * Master's Thesis on Physics Sensitivity Studies for Fermilab, USA Project at Indian Institute of Technology (IIT) Guwahati, India
 * Summer Intern Project Report on Particle Detection at Scintillator Detector at Bhabha Atomic Research Center, Mumbai, India
