@@ -1,4 +1,4 @@
-# Project-Reports
+# Project Reports
 
 This repository comprises the following list of project reports:
 
